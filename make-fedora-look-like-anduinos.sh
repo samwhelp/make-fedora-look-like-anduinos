@@ -11,8 +11,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/make-debian-look-like-anduinos/blob/main/make-debian-look-like-anduinos.sh
-## * https://raw.githubusercontent.com/samwhelp/make-debian-look-like-anduinos/refs/heads/main/make-debian-look-like-anduinos.sh
+## * https://github.com/samwhelp/make-fedora-look-like-anduinos/blob/main/make-fedora-look-like-anduinos.sh
+## * https://raw.githubusercontent.com/samwhelp/make-fedora-look-like-anduinos/refs/heads/main/make-fedora-look-like-anduinos.sh
 ##
 
 
