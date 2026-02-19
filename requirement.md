@@ -16,10 +16,10 @@
 | [pipx](https://github.com/pypa/pipx) | for install gnome-extensions-cli |
 | [gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) | for install extension |
 
-> run to install [pipx](https://packages.debian.org/stable/pipx) at debian
+> run to install [pipx](https://packages.fedoraproject.org/pkgs/pipx/pipx/) at fedora
 
 ``` sh
-sudo apt-get install pipx
+sudo dnf install pipx
 ```
 
 > run to install gnome-extensions-cli (gext)
@@ -35,12 +35,12 @@ sudo pipx install gnome-extensions-cli --global
 
 | Requirement | Note |
 | ----------- | ---- |
-| [gir1.2-gmenu-3.0](https://packages.debian.org/stable/gir1.2-gmenu-3.0) | for [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) |
+| [gnome-menus](https://packages.fedoraproject.org/pkgs/gnome-menus/gnome-menus/) | for [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) |
 
-> run to install gir1.2-gmenu-3.0 at debian
+> run to install [gnome-menus](https://packages.fedoraproject.org/pkgs/gnome-menus/gnome-menus/) at fedora
 
 ``` sh
-sudo apt-get install gir1.2-gmenu-3.0
+sudo dnf install gnome-menus
 ```
 
 > ArcMenu Requires GMenu Package:
@@ -57,8 +57,8 @@ sudo apt-get install gir1.2-gmenu-3.0
 
 ## Requirement for Install fluent-gtk-theme
 
-> run to install sassc at debian
+> run to install sassc at fedora
 
 ``` sh
-sudo apt-get install sassc
+sudo dnf install sassc
 ```
