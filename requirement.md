@@ -57,7 +57,7 @@ sudo dnf install gnome-menus
 
 ## Requirement for Install fluent-gtk-theme
 
-> run to install sassc at fedora
+> run to install [sassc](https://packages.fedoraproject.org/pkgs/sassc/sassc/) at fedora
 
 ``` sh
 sudo dnf install sassc
